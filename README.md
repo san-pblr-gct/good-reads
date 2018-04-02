@@ -24,7 +24,7 @@ Adrian hall blog: https://shellmonger.com/page/9/
 
 Reduce webpack bundle size: https://hackernoon.com/reduce-webpack-bundle-size-for-production-880bb6b2c72f
 
-                            https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a
+Bundle size: https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a
                             
 Ivy League courses:https://medium.freecodecamp.org/here-are-330-ivy-league-courses-you-can-take-online-right-now-for-free-58147bb7adcf
 
