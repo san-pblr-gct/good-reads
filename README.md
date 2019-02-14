@@ -37,3 +37,5 @@ React blog posts: https://levelup.gitconnected.com/
 Javascript feed (blogs): https://javascriptfeed.com/
 
 Ecommerce crawler using React & Node: https://medium.com/@agustin.aliaga/building-an-ecommerce-scraper-with-node-js-and-react-js-7613401169fb
+
+ES5 to ESNext https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e
