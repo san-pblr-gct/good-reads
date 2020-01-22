@@ -1,7 +1,11 @@
 # References
 This includes URL references to great articles.
 
+2020-01-22  
+IOS design guidelines: https://ivomynttinen.com/blog/ios-design-guidelines
+  
 
+2019-02-14  
 Front end frameworks: https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/
 
 Virtual Dom : https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf
