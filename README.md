@@ -1,6 +1,10 @@
 # References
 This includes URL references to great articles.
 
+
+2020-02-07   
+Cost of useMemo and useCallback: https://kentcdodds.com/blog/usememo-and-usecallback
+
 2020-01-22  
 IOS design guidelines: https://ivomynttinen.com/blog/ios-design-guidelines
   
