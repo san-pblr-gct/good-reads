@@ -1,6 +1,8 @@
 # References
 This includes URL references to great articles.
 
+2020-02-12  
+React native kits: https://kriss.io/free-react-native-templates-in-5-best-sources/?fbclid=IwAR2y5g2UJvUapmNZNiSCQcNyVCkb7d0HHMYYFSnEsxJu2ZFa-Sd_YQ3UI8M#.XkPFYA8Jfnw.facebook
 
 2020-02-07   
 Cost of useMemo and useCallback: https://kentcdodds.com/blog/usememo-and-usecallback
